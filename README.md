@@ -101,7 +101,7 @@ Engineers can quickly identify, inspect, and document surface defects on metal s
 
 ### COLMAP Reconstruction
 
-![COLMAP Reconstruction](Col_map.png)
+![COLMAP Reconstruction](Col_Map.png)
 
 The **COLMAP Reconstruction** tab wraps a full SfM/MVS pipeline around COLMAP:
 
