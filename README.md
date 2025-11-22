@@ -1,9 +1,4 @@
-Here’s a README you can drop straight into your repo.
-You can tweak package names / paths if they’re slightly different in your codebase.
 
----
-
-````markdown
 # Structural Inspection Toolkit
 
 **Inspect, Analyze, and Visualize Structural Integrity Effortlessly.**
@@ -297,5 +292,4 @@ Specify your preferred license here (e.g., MIT, Apache-2.0), or keep the project
 
 ```
 
-If you tell me the exact entry script name for the backup UI and whether you have a `requirements.txt`, I can tweak the commands and sections to match your repo perfectly.
-```
+
