@@ -31,7 +31,7 @@ The **Structural Inspection Toolkit** is a desktop application for engineers and
 
 ### Landing Screen
 
-![Landing Screen](/mnt/data/35f02bcc-fb47-4411-9672-36161427e788.png)
+![Landing Screen](Ui.png)
 
 The home screen gives a clean entry point into the toolkit:
 
@@ -44,7 +44,7 @@ The home screen gives a clean entry point into the toolkit:
 
 ### Main Modules
 
-![Main Tabs](/mnt/data/23870bd4-5eb9-4a0e-9b8e-b5b6591b3672.png)
+![Main Tabs](Features.png)
 
 The toolkit is organized into dedicated tabs:
 
@@ -61,7 +61,7 @@ Each tab encapsulates a separate workflow while sharing a consistent UI layout.
 
 ### Crack Prediction
 
-![Crack Prediction](/mnt/data/05598a58-7e3c-4de8-9f42-4d406d98ab8a.png)
+![Crack Prediction](Crack_Sim.png)
 
 The **Crack Prediction** tab focuses on masonry and concrete crack analysis:
 
@@ -81,7 +81,7 @@ This module is meant to make it easy to quickly assess whether a crack is minor 
 
 ### Metal Defect Detection
 
-![Metal Defect Detection](/mnt/data/0bcaab71-4568-4be7-8d0f-da5a48439a8b.png)
+![Metal Defect Detection](Metal.png)
 
 The **Metal Defect Detection** tab targets defect detection in metallic components:
 
@@ -101,7 +101,7 @@ Engineers can quickly identify, inspect, and document surface defects on metal s
 
 ### COLMAP Reconstruction
 
-![COLMAP Reconstruction](/mnt/data/89eb54d4-7c47-4b6d-a1a3-92e4c13fdf5f.png)
+![COLMAP Reconstruction](Col_map.png)
 
 The **COLMAP Reconstruction** tab wraps a full SfM/MVS pipeline around COLMAP:
 
